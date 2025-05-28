@@ -78,6 +78,19 @@ This project provides:
 
 ---
 
+## Visual Examples
+
+Original upload image:  
+![Original upload image](images/original_image.png)
+
+Image after model prediction (boundary boxes):  
+![Image with boundary boxes](images/image%20with%20boundary%20boxes.png)
+
+Image after GenAI validation:  
+![GenAI brand name recognition](images/genai%20brand%20name%20recognition.png)
+
+---
+
 ## Setup & Execution
 
 1. **Clone the repository**:
