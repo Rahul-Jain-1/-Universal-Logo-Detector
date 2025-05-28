@@ -39,7 +39,9 @@ def extract_brand_names(image) -> str:
                     data=img_bytes
                 ),
                 # text part
-                types.Part.from_text(_SYSTEM_PROMPT)
+                types.Part.from_text(
+                    text=_SYSTEM_PROMPT
+                    )
             ]
         )
     ]
