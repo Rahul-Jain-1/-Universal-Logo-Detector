@@ -1,0 +1,14 @@
+albumentations
+ipython
+lxml
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+pyyaml
+scikit-learn
+torch
+torchmetrics
+tqdm
+transformers
