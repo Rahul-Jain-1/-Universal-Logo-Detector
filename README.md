@@ -80,14 +80,18 @@ This project provides:
 
 ## Visual Examples
 
-Original upload image:  
-![Original upload image](images/original_image.png)
+Below are the three key visual outputs from the pipeline
 
-Image after model prediction (boundary boxes):  
-![Image with boundary boxes](images/image%20with%20boundary%20boxes.png)
+1. **Original upload image**  
+    images/original_image.png
 
-Image after GenAI validation:  
-![GenAI brand name recognition](images/genai%20brand%20name%20recognition.png)
+
+2. **Model prediction (boundary boxes)**  
+    images/image%20with%20boundary%20boxes.png
+
+
+3. **Image after GenAI validation**  
+    images/genai%20brand%20name%20recognition.png
 
 ---
 
