@@ -83,16 +83,15 @@ This project provides:
 Below are the three key visual outputs from the pipeline
 
 1. **Original upload image**  
-    images/original_image.png
+    ![Original upload image](images/original_image.png)
 
 
 2. **Model prediction (boundary boxes)**  
-    images/image%20with%20boundary%20boxes.png
+    ![Model prediction (boundary boxes)](images/image%20with%20boundary%20boxes.png)
 
 
 3. **Image after GenAI validation**  
-    images/genai%20brand%20name%20recognition.png
-
+    ![Image after GenAI validation](images/genai%20brand%20name%20recognition.png)
 ---
 
 ## Setup & Execution
