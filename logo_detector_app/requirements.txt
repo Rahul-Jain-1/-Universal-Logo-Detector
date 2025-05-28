@@ -1,6 +1,6 @@
 torch
 transformers
 Pillow
-google-genai
+google-generativeai
 streamlit
 dotenv
